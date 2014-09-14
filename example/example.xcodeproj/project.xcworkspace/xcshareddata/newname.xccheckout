@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>851E7206-C5A2-4341-99C2-107D220DB794</string>
+	<string>606BCF07-4698-4051-8515-AC5A13B048F2</string>
 	<key>IDESourceControlProjectName</key>
-	<string>example</string>
+	<string>newname</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B7047447D4FA3D27A8371CF64CE125280E3AA50C</key>
 		<string>https://github.com/ytbryan/rename.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>sample/example.xcodeproj</string>
+	<string>example/newname.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B7047447D4FA3D27A8371CF64CE125280E3AA50C</key>
