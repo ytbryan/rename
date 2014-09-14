@@ -33,7 +33,8 @@ def sync(new_name, proj_name)
     rename_main_directory = "mv ../#{new_name} ../#{proj_name}"
     system(rename_main_directory)
 
-    puts "Done. Project Synchronised."
+    puts "Done. Project name synchronised."
+    puts "You might want to change the project's scheme too. Go to Manage Scheme."
 end
 
 #sound off if something is wrong
