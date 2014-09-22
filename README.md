@@ -5,9 +5,10 @@ A simple ruby script to sync your iOS resources/directories with project name.
 `**NOTE: It's probably a good idea to backup your project first.**`
 
 #### How to rename your ios xcode project
-1. Tap lightly on the project name (ie. example) to change the name.
 
 ![Rename_project_name](gif/1.gif)
+1. Tap lightly on the project name (ie. example) to change the name.
+
 
 2. A dialog box will appear. Click "Rename" will only rename the .xcodeproj and related resources.
 ![Image](images/3.png?raw=true)
