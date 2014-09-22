@@ -2,7 +2,7 @@
 
 A simple ruby script to sync your iOS resources/directories with project name.
 
-![rename](gif/test.gif)
+![rename](gif/2.gif)
 
 `**NOTE: It's probably a good idea to backup your project first.**`
 
