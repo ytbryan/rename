@@ -1,6 +1,6 @@
 #Rename
 
-A simple ruby script to sync your iOS resources/directories with project name.
+A simple ruby script to sync your iOS resources/directories with project name. For now, the script does not rename project name with whitespaces. 
 
 ![rename](gif/finally.gif)
 
