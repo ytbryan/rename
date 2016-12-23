@@ -47,7 +47,8 @@ Change "example" to "newname"
 
 
 #### CONTACT
-[@ytbryan](http://twitter.com/ytbryan)
+[@ytbryan](http://twitter.com/ytbryan) & 📮 Bryan Lim ytbryan@gmail.com
+
 
 #### LICENSE
 [MIT](http://opensource.org/licenses/MIT)
